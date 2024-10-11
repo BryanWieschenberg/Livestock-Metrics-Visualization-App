@@ -1,4 +1,5 @@
 -- Original schema we will use to populate our schema
+
 DROP TABLE Animal;
 CREATE TABLE Animal (
 	animal_id integer primary key,
