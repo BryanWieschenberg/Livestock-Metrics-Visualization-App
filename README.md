@@ -1,7 +1,7 @@
-CSC 315 - Project 11
+# Database Visualization Full Stack Web Application
 Bryan Wieschenberg, Tra-Mi Cao, Praneel Pothukanuri
 
-This database holds information of goats, along with their traits and activities. In our project, we aim to answer 7 questions about goats and their birth weights using our views and queries, enabling the user to choose a variety of years, vaccines, and outputs for each question answered. The 7 questions are:
+This database holds information of goats, along with their traits and activities. In our project, we aimed to answer 7 questions about goats and their birth weights using our views and queries, enabling the user to choose a variety of years, vaccines, and outputs for each question answered. The 7 questions are:
 
 1. Birth weight comparisons for each year the data is available.
 2. Lowest average, median average, high average and overall average.
