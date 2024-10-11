@@ -1,6 +1,3 @@
--- CSC 315 Group 11 Schema
--- Bryan Wieschenberg, Tra-Mi Cao, Praneel Pothukanuri
-
 -- Original schema we will use to populate our schema
 DROP TABLE Animal;
 CREATE TABLE Animal (
