@@ -1,4 +1,4 @@
-# Database Visualization Full Stack Web Application
+# Livestock Metrics Visualization Tool
 Bryan Wieschenberg, Tra-Mi Cao, Praneel Pothukanuri
 
 This database holds information of goats, along with their traits and activities. We aimed to answer 7 key questions about goats and their birth weights using our views and queries, enabling the user to choose a variety of years, vaccines, and outputs for each question answered. The 7 questions are:
